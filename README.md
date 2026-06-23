@@ -1,14 +1,12 @@
-# 👋 Olá, eu sou Thiago de Almeida Teles
+#  Olá, eu sou Thiago de Almeida Teles
 
-💻 Desenvolvedor Backend Júnior
+ Desenvolvedor Backend Júnior
 
-🎓 Bacharelado em Ciência da Computação
+ Bacharelado em Ciência da Computação
 
-🚀 Apaixonado por Desenvolvimento Web, APIs REST e Inteligência Artificial.
+ Apaixonado por Desenvolvimento Web, APIs REST e Inteligência Artificial.
 
----
-
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### Backend
 
@@ -37,9 +35,7 @@
 * VS Code
 * Linux
 
----
-
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### Gerador de Landing Pages com IA
 
@@ -53,13 +49,12 @@ Sistema web com gerenciamento de clientes, produtos e agendamentos.
 
 Ferramenta para criação automática de CSS através de IA.
 
----
 
-## 📫 Contato
+##  Contato
 
-📧 [thiagofoztt@gmail.com](mailto:thiagofoztt@gmail.com)
+ [thiagofoztt@gmail.com](mailto:thiagofoztt@gmail.com)
 
-💼 LinkedIn:
+ LinkedIn:
 linkedin.com/in/thiago-de-almeida-teles
 
 🌐 Portfólio:
